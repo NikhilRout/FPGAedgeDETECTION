@@ -1,2 +1,4 @@
 # FPGAedgeDETECTION
-Pipelined Gaussian Blur and Sobel-Filter Verilog Modules for FPGAs
+Optimizing RGB to Grayscale, Gaussian Blur and
+Sobel-Filter operations on FPGAs for reduced
+dynamic power consumption
